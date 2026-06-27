@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de Viagem</string>
+    <string name="no_trips">Nenhuma viagem ainda.\nToque no + para criar uma!</string>
+    <string name="no_items">Nenhum item adicionado.\nToque no + para começar!</string>
+    <string name="add_trip">Adicionar viagem</string>
+    <string name="add_item">Adicionar item</string>
+    <string name="trip_name">Nome da viagem *</string>
+    <string name="destination">Destino</string>
+    <string name="departure_date">Data de partida</string>
+    <string name="item_name">Nome do item *</string>
+    <string name="category">Categoria</string>
+</resources>
